@@ -2,6 +2,10 @@
 
 Restrict module and section access based on relative dates.
 
+```bash
+git submodule add -b main https://github.com/AdrianoRuseler/moodle-availability_relativedate.git availability/condition/relativedate
+```
+
 ## Idea
 
 This availability condition makes it easy to show modules or sections only x days/weeks/months
